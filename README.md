@@ -1,31 +1,17 @@
 ## Kalpathon Hackathon Submission
 
 * Team Name
-  
-  [ Dev-Dynasty ]
+
+#TechNeekX
 
 * Project Name
 
-  [LexNode]
+#LexNode
 
-* Selected Track
 
-  [Web-dev]
+* Problem Statement (PS)
 
-* Selected Problem Statement (PS)
-
-  [ 5 / AI-Powered Legal Document Automation Platform ]
-
-* Team Leader
-
-  Name : Anshul
-  Phone no. : 7571032548
-
-* Team Members & Roles
-  
-  [Anshul]	[FullStack Developer]
-  [Shreya Gupta]	[UI/UX Designer]
-
+AI-Powered Legal Document Automation Platform ]
 
  * Project Description
 
