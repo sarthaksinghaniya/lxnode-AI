@@ -1,12 +1,6 @@
 ## Kalpathon Hackathon Submission
 
-* Team Name
-
 #TechNeekX
-
-* Project Name
-
-#LexNode
 
 
 * Problem Statement (PS)
